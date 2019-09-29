@@ -1,5 +1,8 @@
 # Proxsign docker
 
+## Building
+`docker build .`
+
 ## Running
 
 ```
