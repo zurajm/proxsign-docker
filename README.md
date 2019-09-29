@@ -1,7 +1,8 @@
 # Proxsign docker
 
 ## Building
-`docker build .`
+
+`docker build -t proxsign .`
 
 ## Running
 
